@@ -1,4 +1,4 @@
-# Horiseonv Refractor Challenge
+# Horiseon Refractor Challenge
 
 ## Purpose
 Fix, organize, and improve existing codebase to follow accessibility standards optimizing for search engines. 
